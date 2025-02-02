@@ -1,10 +1,9 @@
 # Olá, me chamo kaléu Ermani 
 <ul>
-  <li> 📚 Estou cursando desenvolvimento web fullstack na growdev </li>
   <li> 🎓 Formação: Ensino medio completo </li>
+  <li> 📚 Formação: 20º edição programa starter web full stack - growdev</li>
+  <li> 💻 Formação: analise e desenvolvimento de sistemas - unisinos </li>
   <li> ⛑ Experiencia profissional: atendente comercial e auxiliar de carga e descarga </li>
-  <li> 💻 Linguagem de programação preferida: Javascript </li>
-  <li> ⚽ Hobbies: Muay thai, futebol, jogos de computador, e assistir filmes/series </li>
 </ul>
 
 <div align-center>
